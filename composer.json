@@ -1,5 +1,5 @@
 {
-    "name": "gregwar/captcha",
+    "name": "edsi-tech/captcha",
     "type": "captcha",
     "description": "Captcha generator",
     "keywords": ["captcha", "spam", "bot"],
